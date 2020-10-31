@@ -10,8 +10,7 @@
 * SSH          >>  bruteforce with metasploit
 * WordPress    >>  exploiting wordpress website
 * FTP Backdoor >>  VSFTPD v2.3.4 backdoor command execution
-* IP Cameras   >>  exploit cctv cameras \e[0;31m
-
+* IP Cameras   >>  exploit cctv cameras 
 
 <img src="https://github.com/AnonymousAt3/cyberdoor/blob/main/screenshot/cyberdoor.png">
 
