@@ -29,7 +29,7 @@ In a brute-force attack, the hacker uses all possible combinations of letters, n
 On WordPress versions 5.0.0 and <= 4.9.8 it is possible to gain arbitrary code execution via a core vulnerability combining a Path Traversal and a Local File Inclusion. An attacker who gains access to an account with at least author privileges on the target can execute PHP code on the remote server.
 # FTP Backdoor
 VSFTPD v2.3.4 contains a backdoor that is triggered by entering anystring:) as the username (no password required). After the backdoor is triggered, the target machine opens a shell on port 6200.
-#IP Cameras
+# IP Cameras
 How to find vulnerable webcams with the help of Shodan and Metasploit framework.
 
 
